@@ -1,4 +1,7 @@
 # MySQL workbench
+
+[![hackmd-github-sync-badge](https://hackmd.io/ZMGpjxuRRRWXKHT6yMMpYA/badge)](https://hackmd.io/ZMGpjxuRRRWXKHT6yMMpYA)
+
 ## 🧱 單元 1：資料庫與資料表操作
 
 本單元介紹如何在 MySQL 中：
